@@ -1,3 +1,3 @@
-# anvesana
+# Anvesana
 
 ![Anvesana Logo](icon.png)
